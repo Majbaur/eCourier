@@ -1,0 +1,144 @@
+.section1{
+  width: 100%;
+  height: 60px;
+  margin-bottom: 20px;
+  position: fixed;
+  background-color: #ffffff;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+    float: left;
+
+}
+.navigation{
+    width: 80%;
+    height: 100%;
+    float: left;
+
+}
+
+/*.navigation{
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Tracking</a></li>
+      <li class="breadcrumb-item"><a href="#">Services</a></li>
+      <li class="breadcrumb-item"><a href="#">Pricing</a></li>
+      <li class="breadcrumb-item"><a href="#">cavarage Map</a></li>
+      <li class="breadcrumb-item"><a href="#">09612 500 500</a></li>
+      <li class="breadcrumb-item"><a href="#">Services</a></li>
+      <button type="button" class="btn btn-primary">Registration</button>
+      <button type="button" class="btn btn-secondary">Login</button>
+    </ol>
+  </nav>
+}*/
+
+.section2{
+  width: 100%;
+  height: 400px;
+  padding-top: 70px;
+}
+.text{
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 10px;
+}
+.photo{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.section3{
+  width: 100%;
+  height: 600px;
+  background-color: #ffffff;
+}
+.card{
+
+}
+
+.section4{
+  margin-top: 100px;
+  width: 100%;
+  height: 400px;
+
+}
+.card{
+
+}
+.section5{
+  width: 100%;
+  height: 400px;
+
+}
+.section6{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+}
+
+.section7{
+  width: 100%;
+  height: 200px;
+  margin-bottom: 200px;
+}
+.section8{
+  width: 100%;
+  height: 400px;
+}
+.section9{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+  padding-left: 5px;
+  text-align: center;
+}
+
+.section10{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+  margin-top: 30px;
+  text-align: center;
+
+
+}
+.section11{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+  margin-bottom: 30px;
+}
+.section12{
+  width: 100%;
+  height: 100px;
+  background-color: #ffffff;
+}
+.col-2{
+  max-width: 10%;
+  height: 100%
+}
+.section13{
+  width: 100%;
+  height: 100px;
+  background-color: #ffffff;
+
+}
+.section14{
+  width: 100%;
+  height: 800px;
+  margin: 100px;
+}
+.col-4{
+  padding: 10px;
+}
+.section15{
+  width: 100%;
+  height: 800px;
+}
+.full{
+  width: 100%auto;
+  height: 100%auto;
+  background-color: lightgray;
+}
